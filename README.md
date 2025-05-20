@@ -1,4 +1,5 @@
 # DasarAlgoritmaDanPemrograman-BisDig
+Rezandi Pratama Sidik (24110310069) 2B BISNIS DIGITAL
 Manfaat Penggunaan Fungsi
 Fungsi dalam pemrograman memberikan banyak manfaat, di antaranya:
 1.	Modularitas: Memecah program menjadi bagian-bagian kecil yang lebih mudah dipahami dan dikelola.
